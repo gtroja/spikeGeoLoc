@@ -1,0 +1,7 @@
+{
+  "name": "spikeGeoLoc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
